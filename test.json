@@ -1,1 +1,13 @@
-
+{
+    "args": {
+        "firstname": "Besar",
+        "lastname": "Sala",
+        "address": "749 E Constitution Drive, Apt.5",
+        "city": "Palatine",
+        "region": "15",
+        "zip": "60074",
+        "email": "besarsala@hotmail.com",
+        "phoneno": "7085012137",
+        "dob": "2003-11-05"
+    }
+}
