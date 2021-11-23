@@ -1,5 +1,4 @@
-[
-    {
+{
         "id": 1,
         "firstname": "Leanne",
         "lastname": "Graham",
@@ -58,5 +57,3 @@
         "phone": "(254)954-1289",
         "dob": "12/04/1990"
     }
-    
-]
