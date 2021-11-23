@@ -1,13 +1,62 @@
-{
-    "args": {
-        "firstname": "Besar",
-        "lastname": "Sala",
-        "address": "749 E Constitution Drive, Apt.5",
+[
+    {
+        "id": 1,
+        "firstname": "Leanne",
+        "lastname": "Graham",
+        "address": "Kulas Light Ct.",
+        "city": "Rosemont",
+        "region": "Illinois",
+        "zip": "92998",
+        "email": "Sincere@april.biz",
+        "phone": "1-770-736-8031 x56442",
+        "dob": "12/23/2002"
+    },
+    {
+        "id": 2,
+        "firstname": "Ervin",
+        "lastname": "Howell",
+        "address": "Victor Plains Street",
+        "city": "Testville",
+        "region": "Montana",
+        "zip": "90566",
+        "email": "Shanna@melissa.tv",
+        "phone": "010-692-6593 x09125",
+        "dob": "10/23/2002"
+    },
+    {
+        "id": 3,
+        "firstname": "Clementine",
+        "lastname": "Bauch",
+        "address": "Douglas Extension Road",
+        "city": "McKenziehaven",
+        "region": "Arizona",
+        "zip": "59590",
+        "email": "Nathan@yesenia.net",
+        "phone": "1-463-123-4447",
+        "dob": "07/13/1998"
+    },
+    {
+        "id": 4,
+        "firstname": "Patricia ",
+        "lastname": "Lebsack",
+        "address": "Hoeger Mall",
+        "city": "Arlington Heights",
+        "zip": "53919",
+        "email": "Julianne.OConner@kory.org",
+        "phone": "493-170-9623",
+        "website": "kale.biz",
+        "dob": "12/04/1994"
+    },
+    {
+        "id": 5,
+        "firstname": "Chelsey ",
+        "lastname": "Dietrich",
+        "address": "Skiles Walks St.",
         "city": "Palatine",
-        "region": "15",
-        "zip": "60074",
-        "email": "besarsala@hotmail.com",
-        "phoneno": "7085012137",
-        "dob": "2003-11-05"
+        "zip": "33263",
+        "email": "Lucio_Hettinger@annie.ca",
+        "phone": "(254)954-1289",
+        "dob": "12/04/1990"
     }
-}
+    
+]
