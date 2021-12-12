@@ -3,12 +3,12 @@
     {
       "id": 1,
       "customer": {
-         "name": "Besar Sala",
-         "address": "749 E Constitution Dr., Apt.5, Palatine",
+         "name": "John Smith",
+         "address": "123 E Dawn Street, Chicago",
          "region": "15",
-         "zipcode": "60074",
+         "zipcode": "60606",
          "phone": "7085012137",
-         "email": "besarsala@hotmail.com",
+         "email": "jsmith@hotmail.com",
          "message": "Please cut the pizza in 12"
       },
       "pizzas": [
