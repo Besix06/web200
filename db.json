@@ -1,5 +1,38 @@
 {
-  "firstname": "Besar",
-  "lastname": "Sala",
-  "address": "749 E Constitution Drive, Apt.5",
+  "orders": [
+    {
+      "id": 1,
+      "customer": {
+         "name": "Besar Sala",
+         "address": "749 E Constitution Dr., Apt.5, Palatine",
+         "region": "IL",
+         "zipcode": "60074",
+         "phone": "7085012137",
+         "email": "besarsala@hotmail.com",
+         "message": "Please cut the pizza in 12"
+      },
+      "pizzas": [
+        {
+         "crust": "small",
+         "toppings": [
+             "pepperoni",
+             "sausage",
+             "onions",
+             "olives"
+         ],
+         "price": "8.03"
+        },
+        {
+         "crust": "medium",
+         "toppings": [
+             "green peppers",
+             "mushrooms",
+             "onions",
+             "olives"
+         ],
+         "price": "11.11"
+        }
+      ]
+    }
+  ]
 }
